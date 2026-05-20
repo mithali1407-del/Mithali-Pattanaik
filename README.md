@@ -15,10 +15,12 @@ I enjoy combining software and engineering concepts to create real-world solutio
 
 
 
+
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithali-pattanaik-43091b29a)
 
 📧 pattanaikmithali@gmail.com
+
 
 
 
@@ -30,6 +32,7 @@ I enjoy combining software and engineering concepts to create real-world solutio
 
 
 
+
 # Experience:
 ### ⚡ Electrical Engineering Intern — TPSODL
 - Learned power distribution and electrical safety systems
@@ -38,11 +41,6 @@ I enjoy combining software and engineering concepts to create real-world solutio
 - Worked with C, Python, and problem-solving concepts
 
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mithali1407&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithali1407&theme=tokyonight&layout=compact)
 
 
 
