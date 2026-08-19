@@ -38,7 +38,7 @@ I enjoy combining software and engineering concepts to create real-world solutio
 ### Summer Inter - OPTCL
  -Learned about the distribution system and working of a Grid substation(GSS).
  
-### Electrical Engineering Intern — TPSODL
+### Summer Intern — TPSODL
 - Learned power distribution and electrical safety systems
 
 ### Programming Intern — NIST University
